@@ -9,6 +9,9 @@ Great for cleaning up messy download folders, desktop clutter, or project direct
 
 ---
 
+## NOTE
+- Clone this code main.js in the same folder as the other files
+
 ## Features ✨
 - Automatically detects file extensions.
 - Creates folders for each file type (e.g., `.jpg`, `.pdf`, `.txt`).
