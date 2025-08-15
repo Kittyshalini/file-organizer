@@ -19,13 +19,16 @@ Great for cleaning up messy download folders, desktop clutter, or project direct
 ## Example 📂
 
 **Before running:**
+```
 files/
 ├── photo.jpg
 ├── resume.pdf
 ├── notes.txt
 └── script.js
+```
 
 **After running:**
+```
 files/
 ├── jpg/
 │ └── photo.jpg
@@ -35,3 +38,4 @@ files/
 │ └── notes.txt
 └── js/
 └── script.js
+```
